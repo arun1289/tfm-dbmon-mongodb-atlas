@@ -1,0 +1,5 @@
+.terraform/
+.terraform.lock.hcl
+DB_helper.ps1
+helper.ps1
+terraform.tfstate*
